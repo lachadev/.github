@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/hJW5pkPZ/2025-09-27-10-03-55.png" />
+  <img src="https://i.ibb.co/hJW5pkPZ/2025-09-27-10-03-55.png" />
 
   <br><br>
 
@@ -7,11 +7,6 @@
   ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/lachadev/chameleonshell)
   ![GitHub contributors](https://img.shields.io/github/contributors/lachadev/chameleonshell)
   
-
-  <br>
-  <img src="https://raw.githubusercontent.com/lachadev/lachadev/output/snake.svg" alt="Snake animation" />
-</div>
-
 
 
 lachadev by lachameleon. If I eventually recruit someone I will change the name so I don't look like an ego maniac.
