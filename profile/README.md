@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://i.ibb.co/hJW5pkPZ/2025-09-27-10-03-55.png" height=2000 />
+  <img src="https://i.ibb.co/hJW5pkPZ/2025-09-27-10-03-55.png" />
 
-  <br><br>
 
   [![Discord](https://img.shields.io/discord/1399004980966330388?style=flat)](https://discord.gg/C2dHwBb3k3)
   ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/lachadev/chameleonshell)
