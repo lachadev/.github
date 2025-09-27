@@ -4,4 +4,4 @@ lachadev by lachameleon. If I eventually recruit someone I will change the name 
 Current project: Chameleonshell.
 
 
-[<img width=30 src="https://www.google.com/logos/doodles/2025/googles-27th-birthday-6753651837110886-ldrk.png">](http://google.com.au/)
+[<img width=90 src="https://www.google.com/logos/doodles/2025/googles-27th-birthday-6753651837110886-ldrk.png">](http://google.com.au/)
